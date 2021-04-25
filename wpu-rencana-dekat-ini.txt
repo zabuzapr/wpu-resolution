@@ -1,3 +1,4 @@
 belajar git dulu yang bener
 belajar .net mvc 
 belajar OOP mvc
+belajar git sampe paham baru ke git extension
