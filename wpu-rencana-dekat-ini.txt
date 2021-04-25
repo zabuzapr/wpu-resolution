@@ -1,0 +1,2 @@
+belajar git dulu yang bener
+belajar .net mvc 
